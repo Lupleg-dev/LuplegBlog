@@ -3,7 +3,7 @@ const siteMetadata = {
     title: 'Otofast Project',
     author: 'Mark Sikaundi',
     headerTitle: 'Articles collection',
-    description: 'Proving world Tech trending stories and top Tech skills',
+    description: 'Proving world Technology trending stories and top Tech skills',
     language: 'en-us',
     theme: 'system', // system, dark or light
     siteUrl: 'https://www.otofastproject.com', // your website URL
