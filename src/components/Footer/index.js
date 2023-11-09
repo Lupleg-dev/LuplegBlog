@@ -80,13 +80,13 @@ const Footer = () => {
           &copy;2023 Otofast org. All rights reserved.
         </span>
         <Link
-          href="#"
+          href="/terms-and-condition"
           className="text-center my-4 md:my-0"
         >
           Terms & Conditions
         </Link>
         <Link
-          href="#"
+          href="/privacy-policy"
           className="text-center my-4 md:my-0"
         >
           Privacy Policy
