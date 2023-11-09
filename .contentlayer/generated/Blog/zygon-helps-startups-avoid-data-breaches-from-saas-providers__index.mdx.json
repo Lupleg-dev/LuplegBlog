@@ -1,0 +1,87 @@
+{
+  "title": "Zygon helps startups avoid data breaches from SaaS providers",
+  "publishedAt": "2023-10-18T00:00:00.000Z",
+  "updatedAt": "2023-10-18T00:00:00.000Z",
+  "description": "Instead of building integration with every single SaaS product on earth, Zygon is using the same approach and decentralizing security across the organization.",
+  "image": {
+    "filePath": "../public/blogs/Zygon helps startups avoid data breaches from SaaS providers.webp",
+    "relativeFilePath": "../../public/blogs/Zygon helps startups avoid data breaches from SaaS providers.webp",
+    "format": "webp",
+    "height": 1251,
+    "width": 1390,
+    "aspectRatio": 1.1111111111111112,
+    "blurhashDataUrl": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAACwAQCdASoIAAgAAkA4JYwCdADzHKwAAM4TlSEcTLsJnjJX0ka0chD58wCAS0iC0AwAAA=="
+  },
+  "isPublished": true,
+  "author": "Mark Sikaundi",
+  "tags": [
+    "saas"
+  ],
+  "body": {
+    "raw": "\nLast week, cloud computing company Shadow confirmed a data breach involving customers’ personal information. The hacker claims to have access to the data of more than 530,000 customers. According to an email from Shadow CEO Eric Sèle, the hacker managed to download this data from a software-as-a-service (SaaS) provider’s API. This is just a recent example in a long list of data breaches that have affected companies of all sizes.\n\nAnd if you’re a tech CEO, you probably don’t want to be in that position. In the current regulatory landscape, you often have to notify privacy watchdogs and navigate regulatory obligations. More importantly, you risk losing the trust of your clients when you notify them of the breach.\n\n### Why Zygon caught my attention\n\nThat’s the reason why Zygon caught my attention. This new French startup reviews all the SaaS applications used by your team — and it doesn’t just focus on official services as it can identify shadow SaaS services that some teams have been quietly using without telling the IT department.\n\nAt first, I thought Zygon could be particularly useful as a cost saving service. As many VC firms are still passing on deals that would have made sense a few years ago, some startups are actively reviewing their SaaS contracts to see if they can cancel a few subscriptions and extend their runway.\n\n### Startup is expanding\n\nBut the startup wants to go beyond this initial usage and build a security startup for your SaaS services. Zygon recently raised a $3 million seed round with Axeleo Capital leading the round, Kima Ventures and several business angels also participating.\n\n### Visibility on shadow IT\n\nAfter the initial inventory process, Zygon customers get a dashboard with all the SaaS applications with the number of users per application.\n\n### Metadata of employee\n\n“We are using the metadata of employee emails, we go through the entire email history and detect those that are related to a SaaS usage,” Zygon co-founder and Chief Product Officer Kevin Smouts told me.\n\nFor SaaS applications that are connected to the official identity management solution, such as Okta, Zygon isn’t going to be particularly useful. But some SaaS startups have been particularly successful in recent years because it takes just a few minutes to create an account and get started.\n\n### Promotion\n\nThey are taking advantage of that by promoting bottom-up adoption with freemium plans, self-service usage and virality features. Dropbox, Zoom or Notion are popular examples of this trend.\n\nAnd SaaS sprawl creates three different issues for businesses — security, legal and costs.\n\n### Building integration\n\nInstead of building integration with every single SaaS product on earth, Zygon is using the same approach and decentralizing security across the organization. Zygon encourages you to designate SaaS admins. From now on, they are in charge of the usage of a specific tool in the organization.\n\n### Security configuration\n\nThey get recommendations when it comes to security configuration tasks, multi-factor authentication and more. For popular application, IT departments can take over as admins, prioritize the rollout of SSO authentication to control account orchestration and more.\n\n### SaaS usage\n\nMore generally speaking, Zygon brings some sort of control over SaaS usage. If someone has multiple accounts for the same service, Zygon can flag that. If several employees are sharing an account, Zygon can also identify that. And if a company wants to comply with SOC 2 and ISO frameworks, Zygon can mitigate risks by minimizing the attack surface.\n\n### Zygon\n\nZygon can be particularly useful when someone quits or when there is a wave of layoffs. It can list services that are still active even after an employee has left the company.\n\n> “In the current situation, IT is only in control of a very small number of SaaS applications. And most accounts remain active for a very long time after employees’ departures — in the current context of layoffs, these are gaping security holes. We go further by detecting which SaaS applications have APIs or access keys that also need to be ‘rotated’ in the event of an employee departure,” Smouts said.\n",
+    "code": "var Component=(()=>{var d=Object.create;var o=Object.defineProperty;var u=Object.getOwnPropertyDescriptor;var p=Object.getOwnPropertyNames;var g=Object.getPrototypeOf,m=Object.prototype.hasOwnProperty;var y=(t,e)=>()=>(e||t((e={exports:{}}).exports,e),e.exports),f=(t,e)=>{for(var n in e)o(t,n,{get:e[n],enumerable:!0})},r=(t,e,n,s)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let i of p(e))!m.call(t,i)&&i!==n&&o(t,i,{get:()=>e[i],enumerable:!(s=u(e,i))||s.enumerable});return t};var b=(t,e,n)=>(n=t!=null?d(g(t)):{},r(e||!t||!t.__esModule?o(n,\"default\",{value:t,enumerable:!0}):n,t)),S=t=>r(o({},\"__esModule\",{value:!0}),t);var h=y((Z,c)=>{c.exports=_jsx_runtime});var x={};f(x,{default:()=>k,frontmatter:()=>v});var a=b(h()),v={title:\"Zygon helps startups avoid data breaches from SaaS providers\",description:\"Instead of building integration with every single SaaS product on earth, Zygon is using the same approach and decentralizing security across the organization.\",image:\"../../public/blogs/Zygon helps startups avoid data breaches from SaaS providers.webp\",publishedAt:\"2023-10-18\",updatedAt:\"2023-10-18\",author:\"Mark Sikaundi\",isPublished:!0,tags:[\"saas\"]};function l(t){let e=Object.assign({p:\"p\",h3:\"h3\",a:\"a\",span:\"span\",blockquote:\"blockquote\"},t.components);return(0,a.jsxs)(a.Fragment,{children:[(0,a.jsx)(e.p,{children:\"Last week, cloud computing company Shadow confirmed a data breach involving customers\\u2019 personal information. The hacker claims to have access to the data of more than 530,000 customers. According to an email from Shadow CEO Eric S\\xE8le, the hacker managed to download this data from a software-as-a-service (SaaS) provider\\u2019s API. This is just a recent example in a long list of data breaches that have affected companies of all sizes.\"}),`\n`,(0,a.jsx)(e.p,{children:\"And if you\\u2019re a tech CEO, you probably don\\u2019t want to be in that position. In the current regulatory landscape, you often have to notify privacy watchdogs and navigate regulatory obligations. More importantly, you risk losing the trust of your clients when you notify them of the breach.\"}),`\n`,(0,a.jsxs)(e.h3,{id:\"why-zygon-caught-my-attention\",children:[\"Why Zygon caught my attention\",(0,a.jsx)(e.a,{\"aria-hidden\":\"true\",tabIndex:\"-1\",href:\"#why-zygon-caught-my-attention\",children:(0,a.jsx)(e.span,{className:\"icon icon-link\"})})]}),`\n`,(0,a.jsx)(e.p,{children:\"That\\u2019s the reason why Zygon caught my attention. This new French startup reviews all the SaaS applications used by your team \\u2014 and it doesn\\u2019t just focus on official services as it can identify shadow SaaS services that some teams have been quietly using without telling the IT department.\"}),`\n`,(0,a.jsx)(e.p,{children:\"At first, I thought Zygon could be particularly useful as a cost saving service. As many VC firms are still passing on deals that would have made sense a few years ago, some startups are actively reviewing their SaaS contracts to see if they can cancel a few subscriptions and extend their runway.\"}),`\n`,(0,a.jsxs)(e.h3,{id:\"startup-is-expanding\",children:[\"Startup is expanding\",(0,a.jsx)(e.a,{\"aria-hidden\":\"true\",tabIndex:\"-1\",href:\"#startup-is-expanding\",children:(0,a.jsx)(e.span,{className:\"icon icon-link\"})})]}),`\n`,(0,a.jsx)(e.p,{children:\"But the startup wants to go beyond this initial usage and build a security startup for your SaaS services. Zygon recently raised a $3 million seed round with Axeleo Capital leading the round, Kima Ventures and several business angels also participating.\"}),`\n`,(0,a.jsxs)(e.h3,{id:\"visibility-on-shadow-it\",children:[\"Visibility on shadow IT\",(0,a.jsx)(e.a,{\"aria-hidden\":\"true\",tabIndex:\"-1\",href:\"#visibility-on-shadow-it\",children:(0,a.jsx)(e.span,{className:\"icon icon-link\"})})]}),`\n`,(0,a.jsx)(e.p,{children:\"After the initial inventory process, Zygon customers get a dashboard with all the SaaS applications with the number of users per application.\"}),`\n`,(0,a.jsxs)(e.h3,{id:\"metadata-of-employee\",children:[\"Metadata of employee\",(0,a.jsx)(e.a,{\"aria-hidden\":\"true\",tabIndex:\"-1\",href:\"#metadata-of-employee\",children:(0,a.jsx)(e.span,{className:\"icon icon-link\"})})]}),`\n`,(0,a.jsx)(e.p,{children:\"\\u201CWe are using the metadata of employee emails, we go through the entire email history and detect those that are related to a SaaS usage,\\u201D Zygon co-founder and Chief Product Officer Kevin Smouts told me.\"}),`\n`,(0,a.jsx)(e.p,{children:\"For SaaS applications that are connected to the official identity management solution, such as Okta, Zygon isn\\u2019t going to be particularly useful. But some SaaS startups have been particularly successful in recent years because it takes just a few minutes to create an account and get started.\"}),`\n`,(0,a.jsxs)(e.h3,{id:\"promotion\",children:[\"Promotion\",(0,a.jsx)(e.a,{\"aria-hidden\":\"true\",tabIndex:\"-1\",href:\"#promotion\",children:(0,a.jsx)(e.span,{className:\"icon icon-link\"})})]}),`\n`,(0,a.jsx)(e.p,{children:\"They are taking advantage of that by promoting bottom-up adoption with freemium plans, self-service usage and virality features. Dropbox, Zoom or Notion are popular examples of this trend.\"}),`\n`,(0,a.jsx)(e.p,{children:\"And SaaS sprawl creates three different issues for businesses \\u2014 security, legal and costs.\"}),`\n`,(0,a.jsxs)(e.h3,{id:\"building-integration\",children:[\"Building integration\",(0,a.jsx)(e.a,{\"aria-hidden\":\"true\",tabIndex:\"-1\",href:\"#building-integration\",children:(0,a.jsx)(e.span,{className:\"icon icon-link\"})})]}),`\n`,(0,a.jsx)(e.p,{children:\"Instead of building integration with every single SaaS product on earth, Zygon is using the same approach and decentralizing security across the organization. Zygon encourages you to designate SaaS admins. From now on, they are in charge of the usage of a specific tool in the organization.\"}),`\n`,(0,a.jsxs)(e.h3,{id:\"security-configuration\",children:[\"Security configuration\",(0,a.jsx)(e.a,{\"aria-hidden\":\"true\",tabIndex:\"-1\",href:\"#security-configuration\",children:(0,a.jsx)(e.span,{className:\"icon icon-link\"})})]}),`\n`,(0,a.jsx)(e.p,{children:\"They get recommendations when it comes to security configuration tasks, multi-factor authentication and more. For popular application, IT departments can take over as admins, prioritize the rollout of SSO authentication to control account orchestration and more.\"}),`\n`,(0,a.jsxs)(e.h3,{id:\"saas-usage\",children:[\"SaaS usage\",(0,a.jsx)(e.a,{\"aria-hidden\":\"true\",tabIndex:\"-1\",href:\"#saas-usage\",children:(0,a.jsx)(e.span,{className:\"icon icon-link\"})})]}),`\n`,(0,a.jsx)(e.p,{children:\"More generally speaking, Zygon brings some sort of control over SaaS usage. If someone has multiple accounts for the same service, Zygon can flag that. If several employees are sharing an account, Zygon can also identify that. And if a company wants to comply with SOC 2 and ISO frameworks, Zygon can mitigate risks by minimizing the attack surface.\"}),`\n`,(0,a.jsxs)(e.h3,{id:\"zygon\",children:[\"Zygon\",(0,a.jsx)(e.a,{\"aria-hidden\":\"true\",tabIndex:\"-1\",href:\"#zygon\",children:(0,a.jsx)(e.span,{className:\"icon icon-link\"})})]}),`\n`,(0,a.jsx)(e.p,{children:\"Zygon can be particularly useful when someone quits or when there is a wave of layoffs. It can list services that are still active even after an employee has left the company.\"}),`\n`,(0,a.jsxs)(e.blockquote,{children:[`\n`,(0,a.jsx)(e.p,{children:\"\\u201CIn the current situation, IT is only in control of a very small number of SaaS applications. And most accounts remain active for a very long time after employees\\u2019 departures \\u2014 in the current context of layoffs, these are gaping security holes. We go further by detecting which SaaS applications have APIs or access keys that also need to be \\u2018rotated\\u2019 in the event of an employee departure,\\u201D Smouts said.\"}),`\n`]})]})}function w(t={}){let{wrapper:e}=t.components||{};return e?(0,a.jsx)(e,Object.assign({},t,{children:(0,a.jsx)(l,t)})):l(t)}var k=w;return S(x);})();\n;return Component;"
+  },
+  "_id": "zygon-helps-startups-avoid-data-breaches-from-saas-providers/index.mdx",
+  "_raw": {
+    "sourceFilePath": "zygon-helps-startups-avoid-data-breaches-from-saas-providers/index.mdx",
+    "sourceFileName": "index.mdx",
+    "sourceFileDir": "zygon-helps-startups-avoid-data-breaches-from-saas-providers",
+    "contentType": "mdx",
+    "flattenedPath": "zygon-helps-startups-avoid-data-breaches-from-saas-providers"
+  },
+  "type": "Blog",
+  "url": "/blogs/zygon-helps-startups-avoid-data-breaches-from-saas-providers",
+  "readingTime": {
+    "text": "4 min read",
+    "minutes": 3.42,
+    "time": 205200,
+    "words": 684
+  },
+  "toc": [
+    {
+      "level": "three",
+      "text": "Why Zygon caught my attention",
+      "slug": "why-zygon-caught-my-attention"
+    },
+    {
+      "level": "three",
+      "text": "Startup is expanding",
+      "slug": "startup-is-expanding"
+    },
+    {
+      "level": "three",
+      "text": "Visibility on shadow IT",
+      "slug": "visibility-on-shadow-it"
+    },
+    {
+      "level": "three",
+      "text": "Metadata of employee",
+      "slug": "metadata-of-employee"
+    },
+    {
+      "level": "three",
+      "text": "Promotion",
+      "slug": "promotion"
+    },
+    {
+      "level": "three",
+      "text": "Building integration",
+      "slug": "building-integration"
+    },
+    {
+      "level": "three",
+      "text": "Security configuration",
+      "slug": "security-configuration"
+    },
+    {
+      "level": "three",
+      "text": "SaaS usage",
+      "slug": "saas-usage"
+    },
+    {
+      "level": "three",
+      "text": "Zygon",
+      "slug": "zygon"
+    }
+  ]
+}

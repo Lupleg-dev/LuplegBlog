@@ -1,0 +1,25 @@
+---
+title: "Android 14’s storage disaster gets patched, but your data might be gone"
+description: "We get sold technical explainers for all these features, but when they were really needed, none of these poorly thought-out, half-baked systems worked"
+image: "../../public/blogs/android-rage-out.jpeg"
+publishedAt: "2023-11-7"
+updatedAt: "2023-11-7"
+author: "Mark Sikaundi"
+isPublished: true
+tags:
+  - apple
+---
+
+It's the start of November, and that means a new Android security patch. Google claims this one is fixing a high-profile Android 14 storage bug that was locking some people out of their devices. The November Security Bulletin contains the usual pile of security fixes, while consumer-oriented Pixel patch notes list a few user-facing changes. The important line is "Fix for issue occasionally causing devices with multiple users enabled to show out of space or be in a reboot loop." A footnote points out that this is for the "Pixel 6, Pixel 6a, 6 Pro, 7, 7 Pro, 7a, Tablet, Fold, Pixel 8, Pixel 8 Pro."
+
+We're on about day 33 of the Android 14 storage bug. For devices with multiple users set up, there is some kind of storage issue that is locking users out of their device. Some are completely unusable, with the phone bootlooping constantly and never reaching the home screen. Others are able to boot up the device but don't have access to lock storage, which causes a huge amount of issues. Some users likened the bug to "ransomware," a type of malware that encrypts your local storage and then demands money for your data. One fix is to completely erase your device with a factory reset, but a lot of users don't want to do that.
+
+Android 14’s user-profile data bug seems indistinguishable from ransomware
+
+The earliest reports of this started just days after the October 4 launch date. Google usually rolls updates out slowly so it can pull them if issues like this pop up to minimize damage. That didn't happen here, though. Google failed to respond quickly to initial reports and just let the bug roll out to everyone. Some people even report being freshly hit with the bug just four days ago because Google 1) let the update roll out without stopping it and 2) can't patch its software quickly enough. The biggest issue tracker thread on this bug is up to 1,000-plus likes and 850 comments of people locked out of their devices, and it took two separate rounds of news coverage for Google to acknowledge the bug after about 20 days.
+
+Google promised a rescue patch, which is now arriving, though the company said only "some" data would be recoverable and that "this update may not enable data to be recovered for devices that are repeatedly rebooting." That seems to line up with what people are experiencing now that the OTA is out. People who can boot up report fixed devices, while bootloopers aren't getting anywhere. Some users are still in the support thread hoping for some kind of data recovery for bootlooping devices, but it doesn't seem like that is going to happen.
+
+This whole fiasco has been a complete failure of most of the controls and protections Google has in place in Android. The company slowly rolls out updates to stop problems before it hits a wide number of users, but it failed to pull the update when problems arose. Android has dual system partitions so that you always have a backup if the device fails to boot after an update, but that system didn't work here because Google's "boot failure" detection isn't accurate enough. The company shipped a quick-fix patch via Google Play System Updates in the Play Store, but because those passively wait around for a reboot to get applied, users still got hit by the bug days after that patch came out. Android is supposed to have a data backup system for apps, but because that doesn't work well and isn't forced on every app, many users have no backups at all.
+
+We get sold technical explainers for all these features, but when they were really needed, none of these poorly thought-out, half-baked systems worked. This disaster is a complete technical failure of several Android systems, and many changes need to happen.
