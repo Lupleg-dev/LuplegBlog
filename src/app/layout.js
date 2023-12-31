@@ -62,6 +62,7 @@ export default function RootLayout({ children }) {
       />
 
       <meta name="monetag" content="fedf0263a2112d67f493fd2f786ccb60"></meta>
+      <script src="https://alwingulla.com/88/tag.min.js" data-zone="31285" async data-cfasync="false"></script>
       <body
         className={cx(
           inter.variable,
