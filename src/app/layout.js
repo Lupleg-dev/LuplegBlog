@@ -60,11 +60,8 @@ export default function RootLayout({ children }) {
         name="google-site-verification"
         content="SkM_UqhUM8rQ542iTcmpJXC9P5FKusX1VUulRwWr-1A"
       />
-      <script
-        async
-        src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5141290108997002"
-        crossorigin="anonymous"
-      ></script>
+
+      <meta name="monetag" content="fedf0263a2112d67f493fd2f786ccb60"></meta>
       <body
         className={cx(
           inter.variable,
