@@ -12,7 +12,7 @@ tags:
 
 StyleXjs is a popular JavaScript library for building user interfaces and frontend applications. It allows developers to quickly create clean, modern UI components using a simple, declarative syntax.
 
-[StyleXjs](https://styleXjs.com) was released by Meta in December, 2023 as an open source project. It gained popularity as a lightweight alternative to larger frameworks like React, Vue, and Angular for building component-based UIs.
+[StyleXjs](https://styleXjs.org) was released by Meta in December, 2023 as an open source project. It gained popularity as a lightweight alternative to larger frameworks like React, Vue, and Angular for building component-based UIs.
 
 The key advantages of StyleXjs include:
 
@@ -64,7 +64,7 @@ otofast-project-app
 The key files and folders are:
 
 - `src/components` - Where your StyleXjs components will live
-- `src/index.jsx` - The entry point for your app
+- `src/index.jsx` - The entry point for your application
 - `src/theme.js` - Centralized theming/style definitions
 - `.stylexrc` - Project configuration file
 
@@ -93,8 +93,13 @@ Everything in StyleXjs is a component. Components allow you to split the UI into
 To define a component, you create a StyleXjs function and export it:
 
 ```js
-export default function MyComponent({ props }) {
-  return <div>{/* component content */}</div>;
+export default function SampleComponent({ props }) {
+  return (
+    <div>
+    <h2>Here is the sample</h2>
+    {/* rest of component content */}
+  </div>;
+  ) 
 }
 ```
 
@@ -108,7 +113,7 @@ Here's an example:
 
 ```jsx
 return (
-  <div className="my-component">
+  <div className="SampleComponent">
     <h1>Title</h1>
     <p>This is JSX!</p>
   </div>
@@ -126,7 +131,7 @@ For example, updating component state like this will trigger a re-render:
 ```js
 import { state } from "@stylexjs/core";
 
-export default function MyComponent() {
+export default function SampleComponent() {
   state.count = 0;
 
   function increment() {
