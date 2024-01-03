@@ -99,7 +99,7 @@ export default function SampleComponent({ props }) {
     <h2>Here is the sample</h2>
     {/* rest of component content */}
   </div>;
-  ) 
+  )
 }
 ```
 
@@ -107,7 +107,7 @@ Components receive props as arguments, and return StyleXjs JSX describing what s
 
 ### JSX
 
-StyleXjs uses JSX, a syntax extension to JavaScript. It allows you to write HTML-like tags in JavaScript.
+[StyleXjs](https://styleXjs.org) uses JSX, a syntax extension to JavaScript. It allows you to write HTML-like tags in JavaScript.
 
 Here's an example:
 
@@ -138,7 +138,11 @@ export default function SampleComponent() {
     state.count++;
   }
 
-  return <button onClick={increment}>{state.count}</button>;
+  return (
+    <button onClick={increment}>
+    {state.count}
+    </button>;
+  )
 }
 ```
 
