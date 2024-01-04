@@ -5,6 +5,7 @@ const SkillList = [
   "react js",
   "next js",
   "node js",
+  "express js",
   "tailwind css",
   "material ui",
   "generative AI",
