@@ -17,14 +17,16 @@ const Footer = () => {
   return (
     <footer className="mt-16 rounded-2xl bg-dark dark:bg-accentDark/90 m-2 sm:m-10 flex flex-col items-center text-light dark:text-dark">
       <h3 className="mt-16 font-medium dark:font-bold text-center capitalize text-2xl sm:text-3xl lg:text-4xl px-4">
-        Interesting Stories | Updates | Guides
+        Techtrend | Gaming | Updates | OpenSource
       </h3>
       <p className="mt-5 px-4 text-center w-full sm:w-3/5 font-light dark:font-medium text-sm sm:text-base">
-        Subscribe to learn about new technology and updates. Join over 5000+
-        members community to stay up to date with latest news.
+        Latest stories trending around the world from tech business, Artificial
+        Intelligence, Cyber security, Gaming and many more.
       </p>
 
-      <form
+      {/* TO BE FIXED ONCE SMTP INTEGRATE */}
+      
+      {/* <form
         onSubmit={handleSubmit(onSubmit)}
         className="mt-6 w-fit sm:min-w-[384px] flex items-stretch bg-light dark:bg-dark p-1 sm:p-2 rounded mx04"
       >
@@ -39,7 +41,7 @@ const Footer = () => {
           type="submit"
           className="bg-dark text-light dark:text-dark dark:bg-light cursor-pointer font-medium rounded px-3 sm:px-5 py-1"
         />
-      </form>
+      </form> */}
       <div className="flex items-center mt-8">
         <a
           href={siteMetadata.linkedin}
@@ -79,27 +81,22 @@ const Footer = () => {
         <span className="text-center">
           &copy;2024 Otofast Project. All rights reserved
         </span>
-        <Link
-          href="/terms-and-condition"
-          className="text-center my-4 md:my-0"
-        >
+        <Link href="/terms-and-condition" className="text-center my-4 md:my-0">
           Terms & Conditions
         </Link>
-        <Link
-          href="/privacy-policy"
-          className="text-center my-4 md:my-0"
-        >
+        <Link href="/privacy-policy" className="text-center my-4 md:my-0">
           Privacy Policy
         </Link>
-        <Link
-          href="/sitemap.xml"
-          className="text-center my-4 md:my-0"
-        >
+        <Link href="/sitemap.xml" className="text-center my-4 md:my-0">
           sitemap.xml
         </Link>
         <div className="text-center">
           Product of{" "}
-          <a href="https://devcircleafrica.com" className="underline" target="_blank">
+          <a
+            href="https://devcircleafrica.com"
+            className="underline"
+            target="_blank"
+          >
             DevCircle Africa
           </a>
         </div>
