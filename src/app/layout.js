@@ -60,9 +60,6 @@ export default function RootLayout({ children }) {
         name="google-site-verification"
         content="SkM_UqhUM8rQ542iTcmpJXC9P5FKusX1VUulRwWr-1A"
       />
-
-      <meta name="monetag" content="fedf0263a2112d67f493fd2f786ccb60"></meta>
-      <script src="https://alwingulla.com/88/tag.min.js" data-zone="31285" async data-cfasync="false"></script>
       <body
         className={cx(
           inter.variable,
