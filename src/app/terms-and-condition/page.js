@@ -12,14 +12,14 @@ function Conditions() {
             <h2 className="font-bold">1. The Agreement</h2>
             <p>
               Thanks for visiting our terms of use (<strong>Agreement</strong>),
-              we are Otofast Project Pty. Ltd. ACN 163 385 804 (
+              we are Lupleg Pty. Ltd. ACN 163 385 804 (
               <strong>we</strong>, <strong>our</strong>, <strong>us</strong> and
               other similar terms). These terms govern your access to and use of
               our mobile applications and web interface, together known as
-              Otofast Project (<strong>Otofast Project</strong>). Otofast Project
+              Lupleg (<strong>Lupleg</strong>). Lupleg
               provides you with the ability to interact with our online global
               marketplace which aims to connect people for prosperity (
-              <strong>Marketplace</strong>). By using Otofast Project or our
+              <strong>Marketplace</strong>). By using Lupleg or our
               Marketplace, you agree to comply with and be legally bound by the
               terms and conditions of this Agreement. If you do not agree to
               these terms, you have no right to continue using our products or
@@ -62,14 +62,14 @@ function Conditions() {
               users and not us; and
             </p>
             <p className="font-bold">
-              (e) Otofast Project and our Marketplace may from time to time
+              (e) Lupleg and our Marketplace may from time to time
               contain bugs and errors which do not substantially interfere with
               its normal operations.
             </p>
             <h2 className="font-bold">3. User Account</h2>
-            <h3 className="font-bold">3.1 Accessing Otofast Project</h3>
+            <h3 className="font-bold">3.1 Accessing Lupleg</h3>
             <p>
-              You acknowledge and agree that to make use of Otofast Project, you
+              You acknowledge and agree that to make use of Lupleg, you
               are required to provide us with personal information and create an
               account with us (Account). We reserve the right to reject any new
               Account in our absolute discretion.
@@ -77,7 +77,7 @@ function Conditions() {
             <p>
               In creating an Account, you must provide any information
               reasonably requested by us for the purpose of operating the
-              Marketplace and Otofast Project. You warrant:
+              Marketplace and Lupleg. You warrant:
             </p>
             <div className="font-bold">
               <p>
@@ -92,7 +92,7 @@ function Conditions() {
             </div>
             <h3 className="font-bold">3.2 Security responsibilities</h3>
             <p>
-              We will take reasonable steps to ensure Otofast Project and our
+              We will take reasonable steps to ensure Lupleg and our
               Marketplace is secure from unauthorised access consistent with
               generally accepted industry standards. You must take all
               reasonable steps to ensure usernames and passwords are not
@@ -103,7 +103,7 @@ function Conditions() {
             <p>
               Subject to clause 8 (App Store Providers), we grant you a
               non-transferrable, non-exclusive, non-sublicensable, worldwide,
-              royalty free and revocable licence to use Otofast Project, on the
+              royalty free and revocable licence to use Lupleg, on the
               terms contained in this Agreement (Licence).
             </p>
             <p>
@@ -130,12 +130,12 @@ function Conditions() {
               Agreement by us.
             </p>
             <h2 className="font-bold">
-              5. Your use of Otofast Project and our Marketplace
+              5. Your use of Lupleg and our Marketplace
             </h2>
             <h3 className="font-bold">5.1 Accessing the Marketplace</h3>
             <p>You acknowledge and agree:</p>
             <p>
-              (a) you must only access the Marketplace via our Otofast Project
+              (a) you must only access the Marketplace via our Lupleg
               interfaces and not by any third-party application or automated
               means; and
             </p>
@@ -144,7 +144,7 @@ function Conditions() {
               will not be available locally.
             </p>
             <p>
-              In order to make full use of mobile versions of Otofast Project you
+              In order to make full use of mobile versions of Lupleg you
               must allow your device access to the following services:
             </p>
             <div className="font-bold">
@@ -189,7 +189,7 @@ function Conditions() {
             <div className="font-bold">
               <p>
                 (a) attempt to gain unauthorised access to or impair any aspect
-                of Otofast Project or our Marketplace;
+                of Lupleg or our Marketplace;
               </p>
               <p>
                 (b) use automated means to upload content, log in or attempt to
@@ -198,28 +198,28 @@ function Conditions() {
               </p>
               <p>(c) grant access to your Account to any other person;</p>
               <p>
-                (d) not use the job advertisement feature on Otofast Project for
+                (d) not use the job advertisement feature on Lupleg for
                 any purpose other than genuinely seeking to fill a current role;
               </p>
               <p>(e) provide false or misleading information;</p>
               <p>
-                (f) in any way tamper with, hinder or modify Otofast Project or
+                (f) in any way tamper with, hinder or modify Lupleg or
                 our Marketplace;
               </p>
               <p>
                 (g) knowingly transmit any viruses or other disabling features
-                to Otofast Project or the Marketplace;
+                to Lupleg or the Marketplace;
               </p>
               <p>
                 (h) intentionally disable or circumvent any protection or
-                disabling mechanism related to Otofast Project;
+                disabling mechanism related to Lupleg;
               </p>
               <p>
                 (i) install or store any software applications, code or scripts
-                on Otofast Project or the Marketplace;
+                on Lupleg or the Marketplace;
               </p>
               <p>
-                (j) use Otofast Project in any way which could be reasonably
+                (j) use Lupleg in any way which could be reasonably
                 expected to interfere with or damage our Marketplace or another
                 user&apos;s use of the services we provide; or
               </p>
@@ -230,10 +230,10 @@ function Conditions() {
             </div>
             <h2 className="font-bold">6. Maintenance updates and support</h2>
             <h3 className="font-bold">
-              6.1 The Marketplace and Otofast Project is reliant on third parties
+              6.1 The Marketplace and Lupleg is reliant on third parties
             </h3>
             <p>
-              Parts of Otofast Project and our Marketplace are operated from
+              Parts of Lupleg and our Marketplace are operated from
               information and communication technology infrastructure owned and
               controlled by third parties, such as Amazon Web Services. While we
               endeavour to provide a high availability system, where there are
@@ -243,24 +243,24 @@ function Conditions() {
             <h2 className="font-bold">6.2 Amendments to the Marketplace</h2>
             <p>
               You acknowledge and agree there may be technical or administrative
-              errors associated with Otofast Project and our Marketplace. We
+              errors associated with Lupleg and our Marketplace. We
               reserve the right to upgrade, maintain, tune, backup, amend, add
               to or remove content from, redesign, improve, take offline or
-              otherwise alter both the Marketplace and Otofast Project at our
+              otherwise alter both the Marketplace and Lupleg at our
               sole and absolute discretion.
             </p>
             <p>
               We may remotely deploy updates which must be installed in order
-              for you to continue to use Otofast Project. Where an update is
+              for you to continue to use Lupleg. Where an update is
               required, and you do not accept it, you may not be able to use
-              Otofast Project or access the Marketplace via the mobile apps until
+              Lupleg or access the Marketplace via the mobile apps until
               you install that update.
             </p>
             <h2 className="font-bold">
               6.3 Inaccessibility of the Marketplace
             </h2>
             <p>
-              We reserve the right to make Otofast Project and our Marketplace
+              We reserve the right to make Lupleg and our Marketplace
               inaccessible, as required for upgrades, maintenance and updates.
               From time to time, without notice, access to all or part of our
               Marketplace may be disrupted or limited. During such an
@@ -269,7 +269,7 @@ function Conditions() {
             </p>
             <h2 className="font-bold">6.4 Support</h2>
             <p>
-              We provide support for Otofast Project via our Website and email
+              We provide support for Lupleg via our Website and email
               support@otofastproject.com
             </p>
             <h1 className="font-bold">
@@ -295,7 +295,7 @@ function Conditions() {
               submitted by you. However, we reserve the right to use the content
               you submit for the purpose of operating our services globally. It
               is entirely your responsibility to keep copies of any content
-              uploaded via Otofast Project and you must not rely on us storing
+              uploaded via Lupleg and you must not rely on us storing
               copies for you.
             </p>
             <p>
@@ -305,7 +305,7 @@ function Conditions() {
             <h1 className="font-bold">7.2 Duration of listing</h1>
             <p>
               We may, in our sole discretion set and amend time limits for any
-              category of listing via Otofast Project and our Marketplace. Upon
+              category of listing via Lupleg and our Marketplace. Upon
               the expiry of those time limits the content may be no longer
               visible to other users or may be deleted. Where permissible you
               may re-activate your listing in order for it to remain visible to
